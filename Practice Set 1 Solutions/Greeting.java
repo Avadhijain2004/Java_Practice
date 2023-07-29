@@ -1,3 +1,4 @@
+/*Java program to Greet user */
 import java.util.Scanner;
 public class Greeting 
 {
