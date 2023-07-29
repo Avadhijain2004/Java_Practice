@@ -1,5 +1,6 @@
+/*Java program to find the sum of 3 Numbers */
 import java.util.Scanner;
-class Sum_of_three_numbers
+class Sum_of_three_numbers45
 {
     public static void main(String[] args) 
     {
