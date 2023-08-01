@@ -1,6 +1,6 @@
 /*Java program to encrypt a grade by adding 8 to it and then decrypt it to show the correct grade */
 import java.util.Scanner;
-public class Encrypt_Decrypt 
+public class Enc_Dec 
 {
     public static void main(String[] args) 
     {
@@ -12,6 +12,6 @@ public class Encrypt_Decrypt
         System.out.println("Encrypted grade: "+ grade);
         // Decrypting the grade
         grade = (char)(grade - 8);
-        System.out.println("Decrypet grade: "+grade);
-    }    
+        System.out.println("Decrypted grade: "+grade);
+    } 
 }
